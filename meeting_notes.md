@@ -1,0 +1,4 @@
+- Kai insists CTR is above 3% for Meta.  
+- Wen says the dashboard is behind by 24 hours.  
+- Mira claims CRM is missing 4 Meta conversions.  
+- Discussion about renaming Spring Boost to Spring Boost 2.0 next quarter.  

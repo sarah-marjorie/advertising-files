@@ -1,0 +1,13 @@
+{
+  "campaign": "Spring Boost",
+  "meta_ads": {
+    "spend": 4800,
+    "ctr": 2.9,
+    "conversions": 60
+  },
+  "email": {
+    "opens": 3400,
+    "clicks": 198,
+    "conversions": 11
+  }
+}
